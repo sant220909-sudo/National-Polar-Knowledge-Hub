@@ -1,0 +1,6 @@
+{
+  "name": "Polar Knowledge Portal",
+  "description": "Institutional polar science outreach, knowledge repository, and media dissemination portal with AI-assisted drafting and expert verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
